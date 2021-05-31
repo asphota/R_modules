@@ -6,5 +6,8 @@ Created on Sun May 30 23:42:15 2021
 """
 
 print("Hello world")
-2+2
-# Creating 
+print(2+2)
+# Creating something new
+print(3+4)
+apple = 3
+print("apple =",apple)
