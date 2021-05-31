@@ -15,3 +15,9 @@ print("bananana=", banana)
 # making my first dictionary
 a = {"A":"25", "B":"42", "C":"67"}
 print(a["A"])
+
+#Making array
+A = [1,3,4,5,6]
+B = [5,6,7,9,10]
+print(A+B)
+
