@@ -5,9 +5,13 @@ Created on Sun May 30 23:42:15 2021
 @author: Research_Lab
 """
 
-print("Hello world")
+print("Hello world how are you doing")
 print(2+2)
 # Creating something new
-print(3+4)
 apple = 3
+banana = 56
 print("apple =",apple)
+print("bananana=", banana)
+# making my first dictionary
+a = {"A":"25", "B":"42", "C":"67"}
+print(a["A"])
