@@ -8,10 +8,12 @@ Created on Sun May 30 23:42:15 2021
 print("Hello world how are you doing")
 print(2+2)
 # Creating something new
-apple = 32
-banana = 56
-print("apples =",apple)
-print("banana =", banana)
+apple = 3
+banana = 45
+banana2021 = 56
+print("apple =",apple)
+print("banana", banana2021)
+print("bana", banana)
 # making my first dictionary
 a = {"A":"27", "B":"44", "C":"65"}
 print(a["A"])
