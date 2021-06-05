@@ -9,9 +9,11 @@ print("Hello world how are you doing")
 print(2+2)
 # Creating something new
 apple = 3
-banana = 56
+banana = 45
+banana2021 = 56
 print("apple =",apple)
-print("bananana=", banana)
+print("banana", banana2021)
+print("bana", banana)
 # making my first dictionary
 a = {"A":"25", "B":"42", "C":"67"}
 print(a["A"])
